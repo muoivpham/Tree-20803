@@ -1,0 +1,54 @@
+W. Colorado
+1 BlueMesaLake
+2 	GunnisonRiver
+	3 LakeFork
+	3 CimarronRiver
+		4 CowCreek
+		4 NorthFork
+		4 SoapCreek
+		4 GooseCreek
+	3 SmithFrok
+2 	TaylorRiver
+2 	CebollaCreek
+	3 WestFrokPowerHornCreek
+$$$$$
+Texas
+1 GulfOfMexico
+2 RioGrande
+	3 AlamoCreek
+	3 Pecos
+		4 AguaNegra
+		4 Hondo
+		4 Felix
+		4 Panasco
+		4 Black
+		4 Crockett
+2 Nueces
+	3 WestNuecesRiver
+	3 FrioRiver
+2 San Antonio
+2 Guadalupe
+	3 SanMarcosRiver
+		4 BlancoRiver
+	3 SandiesCreek
+2 Lavaca
+2 Colorado
+	3 BealsCreek
+	3 ConchoRiver
+		4 TwinBluffsReservior
+	3 SanSabaRiver
+	3 LlanoRiver
+2 Brazos
+	3 WhiteRiver
+	3 DoubleMtFork
+	3 ClearFork
+	3 LeonRiver
+	3 NavasotaRiver
+2 Trinity
+	3 RayLake
+	3 CedarCrReservoir
+	3 LakeWhitney
+2 Neches
+2 Sabine
+$$$$$
+
